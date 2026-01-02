@@ -5,41 +5,6 @@
     <title>Application Frontend (Angular)</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 2rem;
-            background-color: #f8f9fa;
-        }
-        h1, h2, h3 {
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-        }
-        pre {
-            background-color: #e9ecef;
-            padding: 1rem;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        table {
-            margin-top: 1rem;
-        }
-        table th, table td {
-            text-align: center;
-        }
-        code {
-            background-color: #e9ecef;
-            padding: 0.2rem 0.4rem;
-            border-radius: 3px;
-        }
-        .note {
-            background-color: #fff3cd;
-            border-left: 5px solid #ffeeba;
-            padding: 1rem;
-            margin-top: 1rem;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 <body>
 
