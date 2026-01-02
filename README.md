@@ -1,0 +1,2 @@
+Rapport de l’activite num 4 : Développement d’une application Full-Stack Angular & Spring Boot
+Ce document présente le rapport du quatrième travail pratique, consacré à la réalisation d’une application web full-stack basée sur une architecture découplée. Le but principal de ce TP était de développer une interface utilisateur dynamique avec Angular, capable d’interagir avec une API REST conçue en Spring Boot, dédiée à la gestion des produits.
